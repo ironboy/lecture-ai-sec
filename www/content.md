@@ -1370,7 +1370,7 @@ Gör "den säkra vägen" till "den smidiga vägen"!
 - Gör det lätt att göra rätt
 
 **<br>Vi väljer scenario B**
-Även om det initialt är "jobbigt" - det krävs utbildning, förädnring av företagskulturer!
+Även om det initialt är "jobbigt" - det krävs utbildning, förändring av företagskulturer!
 
 
 # Avslutande tankar
