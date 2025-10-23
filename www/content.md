@@ -810,10 +810,9 @@ Developer: "Cool!" [fortsätter koda]
 
 ## 5. Konfigurera verktyget säkert från början
 
-**Claude Code exempel:**
+**Claude Code exempel, filen ~/.claude/settings.json:**
 
 ```json
-// ~/.claude/settings.json
 {
   "permissions": {
     "deny": [
@@ -833,7 +832,6 @@ Developer: "Cool!" [fortsätter koda]
 }
 ```
 
----
 
 # För utvecklare: Vad kan du göra?
 
@@ -969,7 +967,6 @@ AI läser kommentarer i kod som instruktioner.
 - Block curl/wget i AI permissions
 ```
 
----
 
 # För säkerhetsanalytiker: Konkreta åtgärder
 
